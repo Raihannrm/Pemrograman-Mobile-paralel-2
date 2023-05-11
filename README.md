@@ -1,1 +1,3 @@
 # Pemrograman-Mobile-paralel-2
+NAMA : MUHAMMAD RAIHAN MAULANA <br>
+NIM : 2110817210016
