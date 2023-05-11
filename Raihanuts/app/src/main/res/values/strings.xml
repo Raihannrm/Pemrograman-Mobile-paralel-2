@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS M RAIHAN MAULANA</string>
+    <string name="club_name">club_name</string>
+    <string name="description">description</string>
+    <string name="julukan">julukan</string>
+    <string name="homebase">homebase</string>
+    <string name="Tahun">Tahun</string>
+    <string name="penonton">penonton</string>
+    <string name="namaclub">namaclub</string>
+</resources>
